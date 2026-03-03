@@ -2,7 +2,7 @@
   😼 Hello World! 😼
 </div>
 
-<p>My Name is Nicole Barbosa 😡</p>
+<p>My Name is Nicole 🐱</p>
 <p>Technology Student 🤖</p>
 <p>My skills are:</p>
 
