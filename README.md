@@ -1,5 +1,5 @@
 ## ☆ **Wassup World!**
-My name is Nicole
+<p>My name is Nicole</p>
 <p>★ software engineering student</p>
 
 <hr>
