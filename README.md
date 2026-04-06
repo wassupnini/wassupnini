@@ -1,8 +1,11 @@
-# ☆ **Wassup World!**
+## ☆ **Wassup World!**
+
 <hr>
 
 <p><b>My name is Nicole</b></p>
 <p>★<b> software engineering student</b></p>
+
+<hr>
 
 —————— ☆ ———————
 
