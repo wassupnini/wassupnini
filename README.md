@@ -1,10 +1,9 @@
 ## ☆ **Wassup World!**
-<p><b>My name is Nicole</b></p>
-<p>★<b> software engineering student</b></p>
+<p>My name is Nicole</p>
+<p>★ software engineering student</p>
 
 <hr>
 —————— ☆ ———————
-
 <p>☆<b> My skills are:</b></p>
 
 <img src="https://skillicons.dev/icons?i=python,github,git,html,css" />
