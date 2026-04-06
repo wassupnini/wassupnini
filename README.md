@@ -1,17 +1,15 @@
 <div align="center">
  
- ☆ Wassup World!
+ ☆ **Wassup World!**
 </div>
 
-<p>My name is Nicole</p>
-<p>★ software engineering student ★</p>
+<p><b>My name is Nicole</b></p>
+<p>★<b>software engineering student</b></p>
 
 ——————————————— ☆ ——————————————————
 
-<p>☆ My skills are:</p>
+<p>☆<b>My skills are:</b></p>
 
 <img src="https://skillicons.dev/icons?i=python,github,git,html,css" />
-
-——— ☆ ———
 
 </div>
