@@ -3,7 +3,7 @@
 <p>★ software engineering student</p>
 
 <hr>
-<p>—————— ☆ ———————</p>
+<p align="left">—————— ☆ ———————</p>
 <p>☆<b> My skills are:</b></p>
 
 <img src="https://skillicons.dev/icons?i=python,github,git,html,css" />
