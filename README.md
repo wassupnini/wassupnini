@@ -1,6 +1,6 @@
 ## ☆ **Wassup World!**
 My name is Nicole
-★ software engineering student
+<p>★ software engineering student</p>
 
 <hr>
 —————— ☆ ———————
