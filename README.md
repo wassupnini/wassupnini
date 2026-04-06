@@ -1,11 +1,12 @@
 <div align="center">
+ 
  ☆ Wassup World!
 </div>
 
 <p>My name is Nicole</p>
 <p>★ software engineering student ★</p>
 
-——— ☆ ———
+——————————————— ☆ ——————————————————
 
 <p>☆ My skills are:</p>
 
